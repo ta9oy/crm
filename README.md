@@ -1,2 +1,2 @@
 # crm
-its a crm system
+It's a crm system
